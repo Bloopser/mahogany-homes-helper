@@ -13,3 +13,6 @@ bin/
 
 # VS Code
 .vscode/
+.gradle/
+build/
+memory-bank/
