@@ -7,3 +7,9 @@ build
 nbactions.xml
 nb-configuration.xml
 nbproject/
+
+# Compiled output (alternative)
+bin/
+
+# VS Code
+.vscode/
